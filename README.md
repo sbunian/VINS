@@ -18,5 +18,5 @@ VINS dataset has a total of 4,800 images of UI screens of different design stage
 	* 603 images of UI design collected from design sharing websites
 
 
-[Download_link](https://drive.google.com/file/d/1nktWIguGAHXZ3g6TdTWzGsGHU-xjFgU7/view?usp=sharing)
+[Download_link](https://drive.google.com/file/d/1ucti2ujNJgKV-Ts_mXALA7BZ97iPv8h6/view?usp=sharing)
 
